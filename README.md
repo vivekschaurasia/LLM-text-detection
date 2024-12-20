@@ -10,7 +10,7 @@ This project processes and analyzes text data using machine learning techniques,
 - **Autoencoders**: Encodes and reconstructs text data using neural networks for dimensionality reduction.
 - **BLEU Score Evaluation**: Compares reconstructed and original text for quality assessment.
 - **Visualization**: Generates visual insights into data distribution and prediction performance.
-
+  
 ## Project Structure
 
 1. **Data Loading and Cleaning**:
