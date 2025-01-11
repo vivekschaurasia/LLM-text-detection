@@ -14,7 +14,7 @@ This project processes and analyzes text data using machine learning techniques,
 ## Project Structure
  
 1. **Data Loading and Cleaning**:
-   - Load multiple datasets.
+   - Load multiple datasets of same structure.
    - Preprocess text data by cleaning and feature extraction.
 
 2. **Word2Vec Embedding**:
