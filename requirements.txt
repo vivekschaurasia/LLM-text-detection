@@ -6,3 +6,4 @@ gensim
 tensorflow
 nltk
 scikit-learn
+keras
